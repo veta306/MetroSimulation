@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WpfApp4.Station">
+    <Position X="9" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAACAAAAAAAAAAAAAAAAAAAgABgAAAAYAA=</HashCode>
+      <FileName>Station.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp4.MetroObject&lt;T&gt;">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAAAAAABAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MetroObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfApp4.Train">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CKEAAgiAAAAAIAgEACAIAAAAACAAIAAAgAgAAAAJAAA=</HashCode>
+      <FileName>Train.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
